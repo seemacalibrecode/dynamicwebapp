@@ -29,7 +29,7 @@ cd my-app
 ```
 
 
-**2. Make it your own:**
+**2. Make it your own repo:**
 
 ```sh
 rm -rf .git && git init && npm init
